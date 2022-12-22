@@ -1,0 +1,7 @@
+D:\mirea\JAVA\new_method\prak_21\txt\1.txt
+D:\mirea\JAVA\new_method\prak_21\txt\12.txt
+D:\mirea\JAVA\new_method\prak_21\txt\123.txt
+D:\mirea\JAVA\new_method\prak_21\txt\1234.txt
+D:\mirea\JAVA\new_method\prak_21\txt\12345.txt
+D:\mirea\JAVA\new_method\prak_21\txt\123456.txt
+D:\mirea\JAVA\new_method\prak_21\txt\1234567.txt
