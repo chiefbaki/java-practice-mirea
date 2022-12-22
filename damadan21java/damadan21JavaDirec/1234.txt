@@ -1,6 +1,0 @@
-D:\damadan21JavaDirec\1234.txt
-D:\damadan21JavaDirec\2389.txt
-D:\damadan21JavaDirec\345.txt
-D:\damadan21JavaDirec\767676.txt
-D:\damadan21JavaDirec\8989.txt
-D:\damadan21JavaDirec\90.txt
